@@ -69,3 +69,15 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 ```
 
 
+---
+
+## Big Data Fundamentals in Python
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 00981fe014   
+```
+
+`@projector_key`
+428af9dcb37795f7be345b5281397cda
